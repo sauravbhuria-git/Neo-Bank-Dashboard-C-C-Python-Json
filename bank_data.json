@@ -1,0 +1,55 @@
+{
+    "Saurav": {
+        "password": "123@",
+        "balance": 0,
+        "history": [
+            "Deposited \u20b910000",
+            "Withdrew \u20b910000"
+        ]
+    },
+    "admin": {
+        "password": "admin123",
+        "balance": 100,
+        "history": [
+            "Deposited \u20b9100"
+        ]
+    },
+    "": {
+        "balance": 0,
+        "history": [
+            "Account  created with \u20b90"
+        ],
+        "loan": 0
+    },
+    "2563": {
+        "balance": 0,
+        "history": [
+            "Account 2563 created with \u20b90",
+            "Deposited \u20b90",
+            "Withdrawn \u20b90"
+        ],
+        "loan": 0
+    },
+    "1234": {
+        "balance": 3800,
+        "history": [
+            "Account 1234 created with \u20b92000",
+            "Deposited \u20b92000",
+            "Withdrawn \u20b9200",
+            "Loan Approved \u20b9200"
+        ],
+        "loan": 200
+    },
+    "12345": {
+        "balance": 1980,
+        "history": [
+            "Account 12345 created with \u20b90",
+            "Deposited \u20b92000",
+            "Withdrawn \u20b92000",
+            "Deposited \u20b92000",
+            "Withdrawn \u20b920",
+            "Loan Approved \u20b950000"
+        ],
+        "loan": 50000
+    }
+}
